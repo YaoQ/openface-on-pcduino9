@@ -28,7 +28,7 @@ sudo apt-get install python-skimage
 ## 3. Install torch
 
 ### a. Install deps
-* You can download this [updated script](https://github.com/YaoQ/openface-on-pcduino9)
+* You can download this [updated script](https://github.com/YaoQ/openface-on-pcduino9/blob/master/install-deps-debian)
 * Run the script
 ```
 bash install-deps-debian
